@@ -1,0 +1,500 @@
+   10  cd dashboard_01_js/
+   11  nvim index.html
+   12  nvim style.css
+   13  nvim script.js
+   14  exit
+   15  nvim index.html 
+   16  exit
+   17  ll
+   18  exit
+   19  data
+   20  dashboard
+   21  ll
+   22  git clone https://github.com/a-chacon/wind.git
+   23  githubpages
+   24  cd ../hatunsacha
+   25  clear
+   26  ll
+   27  exit
+   28  bundle exec jekyll serve
+   29  bundle exec jekyll serve
+   30  bundle exec jekyll serve
+   31  bundle exec jekyll serve
+   32  dashboard
+   33  ll
+   34  cd wind/
+   35  ll
+   36  bundle exec jekyll serve
+   37  exit
+   38  ruby -v
+   39  gem -v
+   40   gcc -v
+   41   gcc --v
+   42   gcc -V
+   43  gcc --version
+   44  clear
+   45  g++ --version
+   46   ma ke --version
+   47  make --version
+   48  gem install jekyll bundler
+   49  jekyll new hatunsacha
+   50  dashboard
+   51  ll
+   52  cd $HOME
+   53  pwd
+   54  cd .local/
+   55  ll
+   56  cd share/
+   57  ll
+   58  cd gem/
+   59  ll
+   60  cd ruby/
+   61  ll
+   62  tree 3.0.0/
+   63  cd 3.0.0/
+   64  ls
+   65  cd bin/
+   66  ls
+   67  githubpages
+   68  ll
+   69  cd ..
+   70  clear
+   71  ll
+   72  cd hatunsacha
+   73  ll
+   74  ll -al
+   75  ll .
+   76  ll ./
+   77  bundle exec jekyll serve
+   78  source ~/.bashrc
+   79  bundle exec jekyll serve
+   80  cd ~/.local/share/gem/ruby/3.0.0/bin/
+   81  ll
+   82  pwd
+   83  gem --version
+   84  ll
+   85  ll
+   86  githubpages
+   87  cd ../hatunsacha
+   88  clear
+   89  ll
+   90  nvim index.html 
+   91  cat _config.yml 
+   92  clear
+   93  nvim index.html 
+   94  ll
+   95  mv index.html _layouts/
+   96  clear
+   97  ll
+   98  cd _layouts/
+   99  ll
+  100  mv index.html base.html
+  101  cd ..
+  102  ll
+  103  ll _site/
+  104  rm -fr _site/
+  105  ll
+  106  clear
+  107  ll
+  108  ll
+  109  rm -fr _site/
+  110  clear
+  111  ll
+  112  ll
+  113  ll _site/
+  114  clear
+  115  ll
+  116  ll _includes/
+  117  ll _layouts/
+  118  cd _layouts/
+  119  ll
+  120  cd ../../
+  121  cd Anamika255.github.io/
+  122  ll
+  123  cat Gemfile 
+  124  nvim Gemfile 
+  125  cd ..
+  126  ll
+  127  cd colemannick.github.io/
+  128  ll
+  129  nvim Gemfile 
+  130  bundle exec jekyll serve
+  131  cd ..
+  132  ll
+  133  cd roseleblood.github.io
+  134  ll
+  135  nvim Gemfile 
+  136  bundle exec jekyll serve
+  137  cd ..
+  138  nvim Gemfile 
+  139  ll
+  140  cd roseleblood.github.io
+  141  nvim Gemfile
+  142  bundle exec jekyll serve
+  143  nvim Gemfile
+  144  bundle exec jekyll serve
+  145  nvim Gemfile
+  146  bundle exec jekyll serve
+  147  dashboard
+  148  git clone https://github.com/NrdyBhu1/atlas-jekyll-theme.git
+  149  exit
+  150  githubpages
+  151  ll
+  152  cd ..
+  153  ll
+  154  cd hatunsacha
+  155  ll
+  156  clear
+  157  ll
+  158  cd ..
+  159  ll
+  160  rm -fr hatunsacha
+  161  ll
+  162  jekyll
+  163  which jekyll
+  164  clear
+  165  gem --vesrion
+  166  gem --version
+  167  gem env
+  168  clear
+  169  gem update
+  170  clear
+  171  ll
+  172  clear
+  173  gem install jekyll
+  174  gem install rdiscount -s http://gemcutter.org
+  175  nvim ~/.bashrc
+  176  source ~/.bashrc
+  177  clear
+  178  jekyll new hatunsacha
+  179  cd hatunsacha
+  180  ll
+  181  bundle exec jekyll serve
+  182  gem install alembic-jekyll-theme
+  183  gem install bundler rdoc
+  184  bundle exec jekyll serve
+  185  gem --version
+  186  bundle install
+  187  clear
+  188  cd ..
+  189  ll
+  190  rm hatunsacha
+  191  rm -fr hatunsacha
+  192  clear
+  193  ll
+  194  clear
+  195  jekyll new hatunsacha
+  196  bundler --version
+  197  gem --version
+  198  clear
+  199  jekyll new hatunsacha
+  200  cd hatunsacha
+  201  gem install ffi -- --disable-system-libffi
+  202  bundle config build.ffi --disable-system-libffi
+  203  bundle exec jekyll serve
+  204  cd ..
+  205  rm -fr hatunsacha
+  206  jekyll new hatunsacha
+  207  conda create -y -n jekyll -c conda-forge rb-jekyll c-compiler compilers cxx-compiler
+  208  conda info -r
+  209  conda info -e
+  210  conda activate jekyll
+  211  gem --version
+  212  gem install bundler:2.3.14
+  213  conda deactivate
+  214  clear
+  215  gem --version
+  216  gem install bundler:2.3.14
+  217  ll
+  218  rm -fr hatunsacha
+  219  jekyll new hatunsacha
+  220  clear
+  221  ll
+  222  bundle install
+  223  cd hatunsacha
+  224  bundle install
+  225  clear
+  226  bundle exec jekyll serve
+  227  gem install minima
+  228  gem install jekyll-feed
+  229  bundle exec jekyll -v
+  230  cd ..
+  231  rm -fr hatunsacha
+  232  jekyll new hatunsacha
+  233  ll
+  234  cd hatunsacha
+  235  bundler exec jekyll serve
+  236  bundler exec jekyll serve
+  237  bundler exec jekyll serve
+  238  cd ..
+  239  clear
+  240  jekyll new hatunsacha
+  241  bundle exec jekyll serve
+  242  cd hatunsacha
+  243  bundle exec jekyll serve
+  244  bundle exec jekyll serve
+  245  bundle exec jekyll serve
+  246  clear
+  247  bundle exec jekyll serve
+  248  bundle exec jekyll serve
+  249  bundle exec jekyll serve
+  250  bundle exec jekyll serve
+  251  cd ...
+  252  cd ..
+  253  cd Anamika255.github.io/
+  254  bundle exec jekyll serve
+  255  bundle exec jekyll serve
+  256  clear
+  257  bundle exec jekyll serve
+  258  bundle exec jekyll serve
+  259  exit
+  260  githubpages
+  261  cd ../hatunsacha
+  262  clear
+  263  ll
+  264  clear
+  265  nvim _config.yml 
+  266  cd ..
+  267  exit
+  268  ll
+  269  cp ../hatunsacha_proj/Gemfile .
+  270  nvim Gemfile 
+  271  nvim Gemfile 
+  272  exit
+  273  githubpages
+  274  cd ../hatunsacha
+  275  clear
+  276  ll
+  277  cd mkdir _layouts _includes _posts
+  278  ll
+  279  mkdir _layouts _includes _posts
+  280  clear
+  281  ll
+  282  rm -fr _site/
+  283  ll
+  284  clear
+  285  nvim index.html
+  286  mkdir -p assests/css
+  287  nvim assests/css/style.css
+  288  mkdir -p assests/js
+  289  nvim assests/js/main.js
+  290  ll
+  291  nvim index.html 
+  292  cat _config.yml 
+  293  cd ..
+  294  ll
+  295  cd Anamika255.github.io/
+  296  ll
+  297  bundler exec jykell serve
+  298  bundle exec jykell serve
+  299  bundle exec jekyll serve
+  300  clear
+  301  ll
+  302  nvim _config.yml 
+  303  bundle exec jekyll serve
+  304  cd ../hatunsacha_basic/
+  305  ll
+  306  bundle exec jekyll serve
+  307  bundle exec jekyll serve
+  308  q
+  309  ll
+  310  clear
+  311  bundle exec jekyll serve
+  312  ll
+  313  bundle exec jekyll serve
+  314  bundle exec jekyll serve
+  315  cd ../hatunsacha_proj/
+  316  bundle exec jekyll serve
+  317  clear
+  318  ll
+  319  cd ..
+  320  cd hatunsacha_basic/
+  321  clear
+  322  ll
+  323  cd ..
+  324  rm -fr hatunsacha_basic/
+  325  jekyll new hatunsacha
+  326  cd hatunsacha
+  327  ll
+  328  bundle exec jekyll serve
+  329  bundle exec jekyll serve
+  330  bundle exec jekyll serve
+  331  bundle exec jekyll serve
+  332  bundle exec jekyll serve
+  333  bundle exec jekyll serve
+  334  bundle exec jekyll serve
+  335  bundle exec jekyll serve
+  336  bundle exec jekyll serve
+  337  bundle exec jekyll serve
+  338  bundle exec jekyll serve
+  339  bundle exec jekyll serve
+  340  bundle exec jekyll serve
+  341  bundle exec jekyll serve
+  342  bundle exec jekyll serve
+  343  bundle exec jekyll serve
+  344  bundle exec jekyll serve
+  345  cd ../vrrp.github.io
+  346  ll
+  347  python update_github_page.py 
+  348  exit
+  349  ll
+  350  ll
+  351  clear
+  352  ll
+  353  bundle exec jekyll serve
+  354  bundle exec jekyll serve
+  355  bundle exec jekyll serve
+  356  bundle exec jekyll serve
+  357  bundle exec jekyll serve
+  358  clear
+  359  bundle exec jekyll serve
+  360  bundle exec jekyll serve
+  361  exit
+  362  ll ../vrrp.github.io
+  363  cd ../vrrp.github.io
+  364  clear
+  365  ll
+  366  ll assets/
+  367  clear
+  368  ll
+  369  ll static/
+  370  ll static/css/
+  371  cat ll static/css/custom.css 
+  372  clear
+  373  ll
+  374  exit
+  375  githubpages
+  376  cd ../hatunsacha
+  377  clear
+  378  ll
+  379  nvim index.html
+  380  nvim _layouts/compress.html
+  381  nvim _layouts/default.html
+  382  nvim _layouts/page.html
+  383  ll _layouts/
+  384  nvim index.html 
+  385  nvim _site/index.html 
+  386  clear
+  387  nvim _layouts/default.html 
+  388  nvim _config.yml 
+  389  nvim index.html 
+  390  cat _layouts/compress.html 
+  391  nvim _layouts/default.html 
+  392  clear
+  393  cat _layouts/page.html 
+  394  ll
+  395  rm index.html 
+  396  nvim index.html
+  397  nvim index.html 
+  398  nvim _layouts/default.html 
+  399  nvim index.html 
+  400  nvim _layouts/default.html 
+  401  nvim _layouts/default.html 
+  402  exit
+  403  dashboard
+  404  githubpages
+  405  cd ../hatunsacha
+  406  clear
+  407  ll
+  408  clear
+  409  tree
+  410  clear
+  411  tree
+  412  clear
+  413  tree
+  414  clear
+  415  tree
+  416  tree
+  417  exit
+  418  githubpages
+  419  cd ../hatunsacha
+  420  ll
+  421  ll _site/
+  422  nvim _site/index.html 
+  423  ll
+  424  mkdir _layouts _includes static
+  425  clear
+  426  ll
+  427  bundle exec jekyll serve
+  428  clear
+  429  bundle exec jekyll serve
+  430  bundle exec jekyll serve
+  431  bundle exec jekyll serve
+  432  bundle exec jekyll serve
+  433  bundle exec jekyll serve
+  434  bundle exec jekyll serve
+  435  bundle exec jekyll serve
+  436  ll images/
+  437  bundle exec jekyll serve
+  438  bundle exec jekyll serve
+  439  bundle exec jekyll serve
+  440  exit
+  441  bundle exec jekyll serve
+  442  bundle exec jekyll serve
+  443  bundle exec jekyll serve
+  444  bundle exec jekyll serve
+  445  bundle exec jekyll serve
+  446  bundle exec jekyll serve
+  447  bundle exec jekyll serve
+  448  bundle exec jekyll serve
+  449  bundle exec jekyll serve
+  450  bundle exec jekyll serve
+  451  bundle exec jekyll serve
+  452  bundle exec jekyll serve
+  453  bundle exec jekyll serve
+  454  bundle exec jekyll serve
+  455  bundle exec jekyll serve
+  456  bundle exec jekyll serve
+  457  exit
+  458  tree
+  459  clear
+  460  ll
+  461  ll static/
+  462  llll _site/
+  463  ll _site/
+  464  celar
+  465  clear
+  466  ll
+  467  ll static/
+  468  cd static/
+  469  ll
+  470  mkdir css
+  471  cd css/
+  472  ll
+  473  nvim custom.css
+  474  exit
+  475  githubpages
+  476  cd ../hatunsacha
+  477  ll
+  478  nvim index.html 
+  479  nvim _layouts/default.html 
+  480  exit
+  481  mkdir pdf
+  482  mv *.pdf pdf/
+  483  exit
+  484  julia
+  485  clear
+  486  cal -y 2024
+  487  exit
+  488  exit
+  489  exit
+  490  exit
+  491  githubpages
+  492  cd ..
+  493  ll
+  494  cd hatunsacha
+  495  ll
+  496  exit
+  497  exit
+  498  exit
+  499  exit
+  500  githubpages
+  501  cd ../
+  502  git clone https://github.com/vrrp/hatunsacha.git
+  503  cd hatunsacha
+  504  clear
+  505  ll
+  506  cp ../vrrp.github.io/update_github_page.py .
+  507  ll
+  508  python update_github_page.py 
+  509  history >> commands.txt
