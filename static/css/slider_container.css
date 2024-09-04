@@ -1,5 +1,33 @@
 /*Slide customizations*/
 /*-----------------------------------*/
+.slider-container {
+    text-align: center;
+}
+
+.category-selector {
+    margin-bottom: 15px;
+}
+
+.category-selector button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.category-selector button:hover {
+    background-color: #0056b3;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
 
 /*estilo de botones de control de mov */
 .controls button {
