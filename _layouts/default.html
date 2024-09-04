@@ -29,7 +29,7 @@ layout: compress
 
     <div class="slider-container">
         <div class="slider">
-            <img id="slider-image" src="{{ 'images/categoria1/imagen1.png' | relative_url }}" alt="Image Slider">
+            <img id="slider-image" src="{{ '/images/categoria1/imagen1.png' | relative_url }}" alt="Image Slider">
         </div>
         <div class="controls">
             <button id="prevButton">Previous</button>
@@ -44,7 +44,7 @@ layout: compress
     categoria1: [
         '{{ "/images/categoria1/imagen1.png" | relative_url }}',
         '{{ "/images/categoria1/imagen2.png" | relative_url }}',
-        '{{ "images/categoria1/imagen3.png" | relative_url }}'
+        '{{ "/images/categoria1/imagen3.png" | relative_url }}'
     ],
     categoria2: [
         '{{ "/images/categoria2/imagen1.png" | relative_url }}',
