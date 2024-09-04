@@ -15,7 +15,6 @@ layout: compress
    <!--para iconos -->
    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"-->
     <link rel="stylesheet" href="{{ '/static/css/custom.css' | relative_url }}">
-
 </head>
 
 <body>
@@ -40,7 +39,7 @@ layout: compress
         </div>
     </div>
 
-    <script>
+<script>
     const images = {
     categoria1: [
         '{{ "images/categoria1/imagen1.png" | relative_url }}',
@@ -105,6 +104,6 @@ document.querySelectorAll('.category-button').forEach(button => {
         changeCategory(button.dataset.category);
     });
 });
-    </script>
+</script>
 </body>
 </html>
