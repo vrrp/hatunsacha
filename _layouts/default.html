@@ -14,7 +14,7 @@ layout: compress
    <!-- Load an icon library -->
    <!--para iconos -->
    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"-->
-    <link rel="stylesheet" href="{{ '/static/css/custom.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/static/css/slider_container.css' | relative_url }}">
 </head>
 
 <body>
@@ -25,19 +25,20 @@ layout: compress
         <button class="category-button" data-category="categoria1">Categoría 1</button>
         <button class="category-button" data-category="categoria2">Categoría 2</button>
         <button class="category-button" data-category="categoria3">Categoría 3</button>
-    </div>
+</div>
 
-    <div class="slider-container">
-        <div class="slider">
-            <img id="slider-image" src="{{ '/images/categoria1/imagen1.png' | relative_url }}" alt="Image Slider">
-        </div>
-        <div class="controls">
-            <button id="prevButton">Previous</button>
-            <button id="nextButton">Next</button>
-            <button id="stopButton">Stop</button>
-            <button id="playButton">Play</button>
-        </div>
-    </div>
+<div class="slider-container">
+      <div class="slider">
+        <img id="slider-image" src="{{ '/images/categoria1/imagen1.png' | relative_url }}" alt="Image Slider">
+      </div>
+
+      <div class="controls">
+        <button id="prevButton">Previous</button>
+        <button id="nextButton">Next</button>
+        <button id="stopButton">Stop</button>
+        <button id="playButton">Play</button>
+      </div>
+</div>
 
 <script>
     const images = {
