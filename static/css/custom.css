@@ -1,32 +1,26 @@
-body {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f4f4f4;
-}
-
+/*Slide customizations*/
+/*-----------------------------------*/
 .slider-container {
     text-align: center;
 }
 
-.slider {
-    width: 80%;
-    max-width: 800px;
-    height: auto;
-    margin-bottom: 10px;
-    overflow: hidden;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
+.category-selector {
+    margin-bottom: 15px;
 }
 
-#slider-image {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
+.category-selector button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.category-selector button:hover {
+    background-color: #0056b3;
 }
 
 .controls {
@@ -35,6 +29,7 @@ body {
     gap: 10px;
 }
 
+/*estilo de botones de control de mov */
 .controls button {
     padding: 10px 20px;
     font-size: 16px;
@@ -78,4 +73,3 @@ body {
 #stopButton:hover {
     background-color: #c82333;
 }
-
