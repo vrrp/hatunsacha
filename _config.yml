@@ -3,7 +3,7 @@
 title: Hatun Sacha
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Monitoring the Earth system
+  Monitoring the Earth system over, and adyacents Peruvian regions
 baseurl: "/hatunsacha" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
